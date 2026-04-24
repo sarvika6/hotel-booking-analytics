@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking Intelligence — Travel Domain Analytics
+# Hotel Booking Intelligence — Travel Domain Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-green?style=flat-square&logo=pandas)
@@ -12,7 +12,7 @@
 
 ---
 
-## 📌 Project Description
+## Project Description
 
 This project applies end-to-end business intelligence methodology to the hotel booking industry — the exact analytical lens used by Business Analysts at global travel technology companies.
 
@@ -20,7 +20,7 @@ Using Python (Pandas, Matplotlib, Seaborn), the analysis moves through data qual
 
 ---
 
-## ❓ Business Questions Answered
+##  Business Questions Answered
 
 1. **Which months experience the highest cancellation rates, and how does this vary between hotel types?**
 2. **Which booking channels (market segments) generate the most revenue, and which have the highest Average Daily Rate?**
@@ -31,20 +31,20 @@ Using Python (Pandas, Matplotlib, Seaborn), the analysis moves through data qual
 
 ---
 
-## 📊 Key Findings
+## Key Findings
 
-- 📅 **Peak cancellation month**: August — driven by OTA flexible bookings and advance speculative reservations
-- 🏙️ **City Hotels cancel at ~41%** vs Resort Hotels at ~28% — due to corporate/OTA channel mix
-- 💰 **Online TA dominates revenue volume** but carries the highest cancellation rate and commission cost
-- 🌍 **Portugal, UK, and France** are the top 3 revenue-generating markets
-- 📆 **181–365 day lead bookings** carry the highest cancellation rate AND the largest revenue-at-risk exposure
-- 🏆 **Full Board + City Hotel** delivers the highest Average Daily Rate across meal packages
-- 🔄 **Repeat guests** cancel significantly less than new guests and generate comparable revenue — making retention highly cost-effective
-- ⭐ Only **~25% of bookings** fall in the Premium revenue tier, yet they drive disproportionate yield
+-  **Peak cancellation month**: August — driven by OTA flexible bookings and advance speculative reservations
+-  **City Hotels cancel at ~41%** vs Resort Hotels at ~28% — due to corporate/OTA channel mix
+-  **Online TA dominates revenue volume** but carries the highest cancellation rate and commission cost
+-  **Portugal, UK, and France** are the top 3 revenue-generating markets
+-  **181–365 day lead bookings** carry the highest cancellation rate AND the largest revenue-at-risk exposure
+-  **Full Board + City Hotel** delivers the highest Average Daily Rate across meal packages
+-  **Repeat guests** cancel significantly less than new guests and generate comparable revenue — making retention highly cost-effective
+- Only **~25% of bookings** fall in the Premium revenue tier, yet they drive disproportionate yield
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Tool | Purpose |
 |------|---------|
@@ -58,7 +58,7 @@ Using Python (Pandas, Matplotlib, Seaborn), the analysis moves through data qual
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 hotel-booking-analytics/
@@ -111,28 +111,27 @@ jupyter notebook notebooks/01_eda_analysis.ipynb
 
 ---
 
-## 📊 Power BI Dashboard
+##  Power BI Dashboard
 
-> **[Power BI Dashboard Screenshot — Coming Soon]**  
 > Dashboard built on `exports/hotel_bookings_clean.csv` — includes slicers for hotel type, market segment, country, and date range. KPI cards: Total Revenue, Cancellation Rate, Avg ADR, Avg Lead Time.
 
 ---
 
-## 🏅 Skills Demonstrated
+## Skills Demonstrated
 
 | Skill | Where Applied |
 |-------|--------------|
-| ✅ **Data Cleaning** | Null imputation, type casting, outlier removal, invalid row filtering |
-| ✅ **Feature Engineering** | 10 new analytical columns: revenue, lead_time_bucket, revenue_tier, stay_type, etc. |
-| ✅ **Exploratory Data Analysis** | Statistical profiling, distribution analysis, correlation discovery |
-| ✅ **Business Storytelling** | Every chart is paired with a management-targeted insight and recommendation |
-| ✅ **Data Visualisation** | 6 publication-quality multi-panel figures with custom styling |
-| ✅ **Dashboard Design** | Power BI-ready clean dataset with engineered fields for slicers and KPIs |
-| ✅ **Travel Domain Knowledge** | GDS context, OTA dynamics, RevPAR, ADR, yield management |
+|  **Data Cleaning** | Null imputation, type casting, outlier removal, invalid row filtering |
+|  **Feature Engineering** | 10 new analytical columns: revenue, lead_time_bucket, revenue_tier, stay_type, etc. |
+|  **Exploratory Data Analysis** | Statistical profiling, distribution analysis, correlation discovery |
+|  **Business Storytelling** | Every chart is paired with a management-targeted insight and recommendation |
+|  **Data Visualisation** | 6 publication-quality multi-panel figures with custom styling |
+|  **Dashboard Design** | Power BI-ready clean dataset with engineered fields for slicers and KPIs |
+|  **Travel Domain Knowledge** | GDS context, OTA dynamics, RevPAR, ADR, yield management |
 
 ---
 
-## 👤 Author
+##  Author
 
 Sarvika K  
 2nd YR CSE STUDENT  
