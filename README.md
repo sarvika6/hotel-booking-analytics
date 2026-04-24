@@ -7,14 +7,14 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard%20Ready-yellow?style=flat-square&logo=powerbi)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=flat-square)
 
-> **Business Analyst Portfolio Project** | Sabre-Style Travel Domain Analytics  
+> **Business Analyst Portfolio Project** |  Travel Domain Analytics  
 > Analysing 119,390 hotel bookings to surface actionable intelligence for revenue management, channel optimisation, and guest strategy.
 
 ---
 
 ## 📌 Project Description
 
-This project applies end-to-end business intelligence methodology to the hotel booking industry — the exact analytical lens used by Business Analysts at global travel technology companies like **Sabre Corporation**, Amadeus, and Travelport.
+This project applies end-to-end business intelligence methodology to the hotel booking industry — the exact analytical lens used by Business Analysts at global travel technology companies.
 
 Using Python (Pandas, Matplotlib, Seaborn), the analysis moves through data quality auditing, feature engineering, and five structured business questions — each producing publication-quality charts and a concrete management recommendation. The cleaned dataset is exported as a Power BI-ready CSV.
 
