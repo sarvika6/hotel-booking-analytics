@@ -134,8 +134,8 @@ jupyter notebook notebooks/01_eda_analysis.ipynb
 
 ## 👤 Author
 
-**[Your Name]**  
-Business Analyst | Data Analytics | Travel Technology  
+Sarvika K  
+2nd YR CSE STUDENT  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?style=flat-square&logo=github)](https://github.com/yourusername)
